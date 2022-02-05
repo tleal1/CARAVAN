@@ -134,11 +134,11 @@
                     <h3 class="h6 mb-2">REDES SOCIAIS</h3>
                     <ul class="list-unstyled">
                         <li><a target="blank" class="btn btn-outline-secondary btn-block mb-2 btn-sm" href="https://www.facebook.com/"
-                            style="max-width: 140px;">Facebook</a></li>
+                            style="max-width: 200px;">Facebook</a></li>
                     <li><a target="blank" class="btn btn-outline-secondary btn-block mb-2 btn-sm" href="https://twitter.com/"
-                            style="max-width: 140px;">Twitter</a></li>
+                            style="max-width: 200px;">Twitter</a></li>
                     <li><a target="blank" class="btn btn-outline-secondary btn-block btn-sm" href="https://www.instagram.com/"
-                            style="max-width: 140px;">Instagram</a></li>
+                            style="max-width: 200px;">Instagram</a></li>
                     </ul>
                 </div>
             </div>
